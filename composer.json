@@ -1,0 +1,12 @@
+{
+    "name": "fargo/just",
+    "require": {
+        "nexmo/client": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Ilia Gorduladze",
+            "email": "iliagorduladze1@gmail.com"
+        }
+    ]
+}
